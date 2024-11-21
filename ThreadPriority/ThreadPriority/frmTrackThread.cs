@@ -21,7 +21,7 @@ namespace ThreadPriority
         {
             // Display starting message in label and console
             label1.Text = "- Thread Starts -";
-            Console.WriteLine("- Thread Starts-");
+            Console.WriteLine("-Thread Starts-");
 
             // Assign names to the threads for better identification
             threadA.Name = "Thread A Process";
